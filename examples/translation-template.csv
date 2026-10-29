@@ -1,0 +1,3 @@
+key,source,translation,context,file_path
+EXAMPLE_MENU_CONTINUE,Continue,Devam et,synthetic menu,example/menu
+EXAMPLE_OBJECTIVE_COUNT,Find &&1 objects,&&1 nesne bul,synthetic objective,example/objectives
